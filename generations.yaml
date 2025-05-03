@@ -1,0 +1,25 @@
+generations:
+  - name: "First Generation"
+    start_year: 1999
+    end_year: 2000
+    description: "The original Cadillac Escalade was hastily developed as a response to the Lincoln Navigator, essentially a rebadged GMC Yukon Denali with minimal Cadillac-specific styling elements. Based on the GMT400 truck platform, it featured a 5.7L V8 engine producing 255 HP, paired with a four-speed automatic transmission and standard four-wheel drive. The interior offered leather seating for up to seven passengers and upscale features for its time, though much was shared with other GM SUVs. Despite its rushed development and limited differentiation, the first Escalade established Cadillac in the luxury SUV segment and set the foundation for what would become the brand's most recognized model."
+
+  - name: "Second Generation"
+    start_year: 2002
+    end_year: 2006
+    description: "After skipping the 2001 model year, the completely redesigned second-generation Escalade emerged with distinctive Cadillac styling featuring the brand's Art & Science design language. Based on the GMT800 platform, it offered three body styles: the standard model, the extended ESV, and the unique EXT pickup truck variant. Power came from a 5.3L V8 (AWD models) or a more powerful 6.0L V8 (RWD models and later all variants) producing up to 345 HP. The significantly upgraded interior featured higher quality materials and advanced technology including navigation and DVD entertainment systems. This generation cemented the Escalade's cultural impact, becoming an icon in music, sports, and entertainment while elevating Cadillac's image with younger buyers."
+
+  - name: "Third Generation"
+    start_year: 2007
+    end_year: 2014
+    description: "The third-generation Escalade refined the formula with more sophisticated styling, improved quality, and enhanced performance. Built on the GMT900 platform, it featured a 6.2L V8 engine producing 403 HP, later upgraded to 420 HP. All models featured a six-speed automatic transmission with available all-wheel drive. The interior offered further improvements in material quality and technology, including a sophisticated audio system, power-folding third-row seats, and a then-advanced navigation system. This generation continued the Escalade's position as a status symbol while offering genuine luxury features and commanding road presence."
+
+  - name: "Fourth Generation"
+    start_year: 2015
+    end_year: 2020
+    description: "The fourth-generation Escalade featured more differentiation from its Chevrolet and GMC siblings, with distinct exterior styling and a significantly upgraded interior. Built on the K2XX platform, it continued with a 6.2L V8 now producing 420 HP, paired with either a six-speed (later eight-speed, then ten-speed) automatic transmission. The interior was dominated by the Cadillac User Experience (CUE) infotainment system with a large touchscreen and capacitive controls. Notable technology included magnetic ride control suspension, a head-up display, and advanced driver assistance features. This generation maintained the Escalade's status as Cadillac's flagship while advancing its technology and luxury credentials."
+
+  - name: "Fifth Generation"
+    start_year: 2021
+    end_year: null
+    description: "The current Escalade represents the most sophisticated iteration yet, built on GM's T1 truck platform with an independent rear suspension for the first time. The exterior features evolutionary styling with distinctive vertical lighting elements, while the interior showcases groundbreaking technology including a curved OLED display spanning 38 inches across the dashboard. Powertrain options include a standard 6.2L V8 producing 420 HP, a 3.0L turbodiesel inline-six with 277 HP, and for the Escalade-V performance variant, a supercharged 6.2L V8 delivering 682 HP. Technology highlights include available Super Cruise hands-free driving capability, AKG 36-speaker audio system, and augmented reality navigation. The fifth-generation Escalade combines traditional Escalade presence and luxury with cutting-edge technology and improved driving dynamics, reaffirming its position as Cadillac's flagship vehicle."
