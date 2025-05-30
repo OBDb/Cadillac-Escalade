@@ -1,0 +1,32 @@
+command_id: 7E0.2211A1
+test_cases:
+- response: 7E8056211A103B9
+  expected_values:
+    CADILLAC_RUNTM: 953
+- response: 7E8056211A103EA
+  expected_values:
+    CADILLAC_RUNTM: 1002
+- response: 7E8056211A10408
+  expected_values:
+    CADILLAC_RUNTM: 1032
+- response: 7E8056211A10426
+  expected_values:
+    CADILLAC_RUNTM: 1062
+- response: 7E8056211A10445
+  expected_values:
+    CADILLAC_RUNTM: 1093
+- response: 7E8056211A10463
+  expected_values:
+    CADILLAC_RUNTM: 1123
+- response: 7E8056211A10481
+  expected_values:
+    CADILLAC_RUNTM: 1153
+- response: 7E8056211A1049F
+  expected_values:
+    CADILLAC_RUNTM: 1183
+- response: 7E8056211A104C3
+  expected_values:
+    CADILLAC_RUNTM: 1219
+- response: 7E8056211A104E1
+  expected_values:
+    CADILLAC_RUNTM: 1249
