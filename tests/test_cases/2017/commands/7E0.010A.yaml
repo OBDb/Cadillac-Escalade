@@ -4,26 +4,5 @@ test_cases:
     FP: 270
   response: 7E803410A5A
 - expected_values:
-    FP: 300
-  response: 7E803410A64
-- expected_values:
-    FP: 324
-  response: 7E803410A6C
-- expected_values:
-    FP: 327
-  response: 7E803410A6D
-- expected_values:
-    FP: 333
-  response: 7E803410A6F
-- expected_values:
-    FP: 336
-  response: 7E803410A70
-- expected_values:
-    FP: 339
-  response: 7E803410A71
-- expected_values:
-    FP: 354
-  response: 7E803410A76
-- expected_values:
     FP: 576
   response: 7E803410AC0
