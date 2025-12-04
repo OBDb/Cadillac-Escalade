@@ -7,5 +7,5 @@ test_cases:
     CADILLAC_RUNTM: 254
   response: 7E8056211A100FE
 - expected_values:
-    CADILLAC_RUNTM: 2372
-  response: 7E8056211A10944
+    CADILLAC_RUNTM: 2638
+  response: 7E8056211A10A4E
