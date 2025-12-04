@@ -10,6 +10,9 @@ test_cases:
     FP: 324
   response: 7E803410A6C
 - expected_values:
+    FP: 327
+  response: 7E803410A6D
+- expected_values:
     FP: 333
   response: 7E803410A6F
 - expected_values:
