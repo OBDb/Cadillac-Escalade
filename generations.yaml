@@ -1,3 +1,6 @@
+references:
+  - "https://en.wikipedia.org/wiki/Cadillac_Escalade"
+
 generations:
   - name: "First Generation"
     start_year: 1999
@@ -5,7 +8,7 @@ generations:
     description: "The original Cadillac Escalade was hastily developed as a response to the Lincoln Navigator, essentially a rebadged GMC Yukon Denali with minimal Cadillac-specific styling elements. Based on the GMT400 truck platform, it featured a 5.7L V8 engine producing 255 HP, paired with a four-speed automatic transmission and standard four-wheel drive. The interior offered leather seating for up to seven passengers and upscale features for its time, though much was shared with other GM SUVs. Despite its rushed development and limited differentiation, the first Escalade established Cadillac in the luxury SUV segment and set the foundation for what would become the brand's most recognized model."
 
   - name: "Second Generation"
-    start_year: 2002
+    start_year: 2001
     end_year: 2006
     description: "After skipping the 2001 model year, the completely redesigned second-generation Escalade emerged with distinctive Cadillac styling featuring the brand's Art & Science design language. Based on the GMT800 platform, it offered three body styles: the standard model, the extended ESV, and the unique EXT pickup truck variant. Power came from a 5.3L V8 (AWD models) or a more powerful 6.0L V8 (RWD models and later all variants) producing up to 345 HP. The significantly upgraded interior featured higher quality materials and advanced technology including navigation and DVD entertainment systems. This generation cemented the Escalade's cultural impact, becoming an icon in music, sports, and entertainment while elevating Cadillac's image with younger buyers."
 
