@@ -1,0 +1,11 @@
+command_id: DA11.220010|fc=1,c=14
+test_cases:
+- expected_values:
+    CADILLAC_MAF: 0
+  response: 142AF111056200100000
+- expected_values:
+    CADILLAC_MAF: 5.11
+  response: 142AF1110562001001FF
+- expected_values:
+    CADILLAC_MAF: 138.76
+  response: 142AF111056200103634

@@ -1,0 +1,14 @@
+command_id: DA1A.22448F|fc=1,c=14
+test_cases:
+- expected_values:
+    CADILLAC_ODO: 123305
+  response: 142AF11A0762448F00786A40
+- expected_values:
+    CADILLAC_ODO: 123308
+  response: 142AF11A0762448F00786B00
+- expected_values:
+    CADILLAC_ODO: 123918
+  response: 142AF11A0762448F00790380
+- expected_values:
+    CADILLAC_ODO: 1000000
+  response: 142AF11A0762448F0FFFFFFF
