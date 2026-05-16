@@ -4,8 +4,8 @@ test_cases:
     CADILLAC_LAT_G: 0
   response: 142AF12805624C2F0000
 - expected_values:
-    CADILLAC_LAT_G: -0.30582
-  response: 142AF12805624C2FFF40
+    CADILLAC_LAT_G: -0.31219
+  response: 142AF12805624C2FFF3C
 - expected_values:
     CADILLAC_LAT_G: -0.00637
   response: 142AF12805624C2FFFFC
