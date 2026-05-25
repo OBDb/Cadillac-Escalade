@@ -1,0 +1,6 @@
+model_year: 2021
+unsupported_commands_by_ecu:
+  "7E0":
+  - 7E0.7E8.222491:CADILLAC_TP_RL
+  "7E7":
+  - 7E7.7EF.224232:CADILLAC_HVBAT_CMU82_VOLT

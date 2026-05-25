@@ -1,0 +1,8 @@
+command_id: DA18.221940|fc=1,c=14
+test_cases:
+- expected_values:
+    CADILLAC_TFT: 13
+  response: 142AF1180462194035
+- expected_values:
+    CADILLAC_TFT: 71
+  response: 142AF118046219406F
