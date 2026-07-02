@@ -4,5 +4,5 @@ test_cases:
     CADILLAC_TFT: 13
   response: 142AF1180462194035
 - expected_values:
-    CADILLAC_TFT: 73
-  response: 142AF1180462194071
+    CADILLAC_TFT: 74
+  response: 142AF1180462194072
