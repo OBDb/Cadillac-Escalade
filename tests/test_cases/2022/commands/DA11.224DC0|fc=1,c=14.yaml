@@ -1,8 +1,8 @@
 command_id: DA11.224DC0|fc=1,c=14
 test_cases:
 - expected_values:
-    CADILLAC_EOL: 43.92157
-  response: 142AF11104624DC070
+    CADILLAC_EOL: 43.52941
+  response: 142AF11104624DC06F
 - expected_values:
     CADILLAC_EOL: 80
   response: 142AF11104624DC0CC
