@@ -4,5 +4,5 @@ test_cases:
     CADILLAC_EOL: 40.78431
   response: 142AF11104624DC068
 - expected_values:
-    CADILLAC_EOL: 80
-  response: 142AF11104624DC0CC
+    CADILLAC_EOL: 96.86275
+  response: 142AF11104624DC0F7

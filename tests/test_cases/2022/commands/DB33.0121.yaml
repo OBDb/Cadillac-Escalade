@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     MIL_DIST: 2
   response: 18DAF1110441210002
+- expected_values:
+    MIL_DIST: 13
+  response: 18DAF111044121000D
