@@ -1,9 +1,9 @@
 command_id: DA11.22002F|fc=1,c=14
 test_cases:
 - expected_values:
-    CADILLAC_AUX_V: 6.5
-    CADILLAC_FLI: 25.4902
-  response: 142AF1110462002F41
+    CADILLAC_AUX_V: 6.3
+    CADILLAC_FLI: 24.70588
+  response: 142AF1110462002F3F
 - expected_values:
     CADILLAC_AUX_V: 25.5
     CADILLAC_FLI: 100
