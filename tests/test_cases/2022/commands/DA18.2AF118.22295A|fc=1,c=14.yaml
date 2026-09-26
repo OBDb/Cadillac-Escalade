@@ -4,5 +4,5 @@ test_cases:
     CADILLAC_TF_T_FLTED: 55
   response: 142AF1180462295A5F
 - expected_values:
-    CADILLAC_TF_T_FLTED: 66
-  response: 142AF1180462295A6A
+    CADILLAC_TF_T_FLTED: 67
+  response: 142AF1180462295A6B
