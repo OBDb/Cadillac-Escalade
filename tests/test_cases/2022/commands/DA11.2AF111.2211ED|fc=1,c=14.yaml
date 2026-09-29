@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     CADILLAC_MISFIRES_C8_CUR: 0.78431
   response: 142AF111046211ED02
+- expected_values:
+    CADILLAC_MISFIRES_C8_CUR: 1.17647
+  response: 142AF111046211ED03
