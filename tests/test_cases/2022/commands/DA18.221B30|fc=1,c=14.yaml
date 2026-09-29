@@ -1,9 +1,9 @@
 command_id: DA18.221B30|fc=1,c=14
 test_cases:
 - expected_values:
-    CADILLAC_CURRENT_GEAR: -2
+    CADILLAC_CURRENT_GEAR_V2: -2
     CADILLAC_GEAR: NEUTRAL
   response: 142AF11804621B3001
 - expected_values:
-    CADILLAC_CURRENT_GEAR: 10
+    CADILLAC_CURRENT_GEAR_V2: 10
   response: 142AF11804621B300D
