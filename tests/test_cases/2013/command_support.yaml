@@ -38,7 +38,7 @@ supported_commands_by_ecu:
   - 0145:TP_R
   - 0146:AAT
   - 0147:TP_B
-  - 7E0.2211A1:CADILLAC_RUNTM
+  - 7E0.2211A1:CADILLAC_RUNTM_V2
 unsupported_commands_by_ecu:
   "760":
   - 760.760.224051
@@ -46,5 +46,5 @@ unsupported_commands_by_ecu:
   - 760.760.224053
   - 760.760.224054
   "7E0":
-  - 7E0.7E8.22248E:CADILLAC_TP_FL
-  - 7E0.7E8.22248F:CADILLAC_TP_FR
+  - 7E0.7E8.22248E:CADILLAC_TP_FL_7E0
+  - 7E0.7E8.22248F:CADILLAC_TP_FR_7E0
