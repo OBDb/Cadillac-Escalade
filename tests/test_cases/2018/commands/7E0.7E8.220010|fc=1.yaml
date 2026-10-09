@@ -1,0 +1,10 @@
+command_id: 7E0.7E8.220010|fc=1
+test_cases:
+- expected_values:
+    CADILLAC_MAF_7E0: 6.37
+    CADILLAC_MAF_V2: 6.37
+  response: 7E805620010027D
+- expected_values:
+    CADILLAC_MAF_7E0: 7.85
+    CADILLAC_MAF_V2: 7.85
+  response: '7E8056200100311'

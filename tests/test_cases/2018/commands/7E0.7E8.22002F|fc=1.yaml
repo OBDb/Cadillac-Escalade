@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22002F|fc=1
+test_cases:
+- expected_values:
+    CADILLAC_FLI_V2: 47.84314
+  response: 7E80462002F7A
+- expected_values:
+    CADILLAC_FLI_V2: 49.41176
+  response: 7E80462002F7E

@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.2212C3
+test_cases:
+- expected_values:
+    CADILLAC_INJECTOR_DUTY_CYCLE_BANK_1_V2: 1.095
+  response: 7E8056212C30049
+- expected_values:
+    CADILLAC_INJECTOR_DUTY_CYCLE_BANK_1_V2: 1.305
+  response: 7E8056212C30057

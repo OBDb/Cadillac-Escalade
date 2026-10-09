@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.220052
+test_cases:
+- expected_values:
+    CADILLAC_ETHANOL_CONTENT_FUEL_V2: 9.80392
+  response: '7E80462005219'

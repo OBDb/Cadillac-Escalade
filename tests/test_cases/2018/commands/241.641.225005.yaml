@@ -1,0 +1,8 @@
+command_id: 241.641.225005
+test_cases:
+- expected_values:
+    CADILLAC_TP_FL_V3: 269.5
+  response: 6410562500510D8
+- expected_values:
+    CADILLAC_TP_FL_V3: 275
+  response: '641056250051130'

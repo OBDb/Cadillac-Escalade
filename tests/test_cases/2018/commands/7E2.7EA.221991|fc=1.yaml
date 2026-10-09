@@ -1,0 +1,8 @@
+command_id: 7E2.7EA.221991|fc=1
+test_cases:
+- expected_values:
+    CADILLAC_TC_SLIP_VSS_V2: 419.375
+  response: 7EA056219910D1B
+- expected_values:
+    CADILLAC_TC_SLIP_VSS_V2: -24.125
+  response: 7EA05621991FF3F

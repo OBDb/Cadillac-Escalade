@@ -1,0 +1,10 @@
+command_id: 7E0.7E8.220042
+test_cases:
+- expected_values:
+    CADILLAC_CTRL_MODULE_V_V2: 13.795
+    CADILLAC_M_CTRL_MODULE_V: 13.795
+  response: 7E80562004235E3
+- expected_values:
+    CADILLAC_CTRL_MODULE_V_V2: 14.567
+    CADILLAC_M_CTRL_MODULE_V: 14.567
+  response: 7E80562004238E7
