@@ -4,29 +4,8 @@ test_cases:
     CADILLAC_OUTPUT_SHFT_SPD_V3: 0
   response: 7EA056219420000
 - expected_values:
-    CADILLAC_OUTPUT_SHFT_SPD_V3: 0
-  response: 7EA0562194200C4
+    CADILLAC_OUTPUT_SHFT_SPD_V3: 1
+  response: 7EA0562194204FB
 - expected_values:
-    CADILLAC_OUTPUT_SHFT_SPD_V3: 0.25
-  response: 7EA056219420129
-- expected_values:
-    CADILLAC_OUTPUT_SHFT_SPD_V3: 1.25
-  response: 7EA0562194205A6
-- expected_values:
-    CADILLAC_OUTPUT_SHFT_SPD_V3: 2.25
-  response: 7EA05621942095A
-- expected_values:
-    CADILLAC_OUTPUT_SHFT_SPD_V3: 3.75
-  response: 7EA056219420F33
-- expected_values:
-    CADILLAC_OUTPUT_SHFT_SPD_V3: 4.25
-  response: 7EA056219421109
-- expected_values:
-    CADILLAC_OUTPUT_SHFT_SPD_V3: 4.5
-  response: 7EA05621942129D
-- expected_values:
-    CADILLAC_OUTPUT_SHFT_SPD_V3: 4.75
-  response: 7EA056219421314
-- expected_values:
-    CADILLAC_OUTPUT_SHFT_SPD_V3: 5
-  response: 7EA056219421460
+    CADILLAC_OUTPUT_SHFT_SPD_V3: 5.25
+  response: 7EA05621942154D

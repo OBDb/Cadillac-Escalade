@@ -13,6 +13,9 @@ test_cases:
     CADILLAC_GEAR_RAT_V2: 137
   response: 7EA046219A189
 - expected_values:
+    CADILLAC_GEAR_RAT_V2: 146
+  response: 7EA046219A192
+- expected_values:
     CADILLAC_GEAR_RAT_V2: 154
   response: 7EA046219A19A
 - expected_values:

@@ -4,20 +4,5 @@ test_cases:
     CADILLAC_COOLING_FAN_MOTOR_CMD_V2: 0
   response: 7E8046213AF00
 - expected_values:
-    CADILLAC_COOLING_FAN_MOTOR_CMD_V2: 9.80392
-  response: 7E8046213AF19
-- expected_values:
-    CADILLAC_COOLING_FAN_MOTOR_CMD_V2: 12.94118
-  response: 7E8046213AF21
-- expected_values:
-    CADILLAC_COOLING_FAN_MOTOR_CMD_V2: 14.90196
-  response: 7E8046213AF26
-- expected_values:
-    CADILLAC_COOLING_FAN_MOTOR_CMD_V2: 15.68627
-  response: 7E8046213AF28
-- expected_values:
-    CADILLAC_COOLING_FAN_MOTOR_CMD_V2: 17.2549
-  response: 7E8046213AF2C
-- expected_values:
     CADILLAC_COOLING_FAN_MOTOR_CMD_V2: 24.31373
   response: 7E8046213AF3E

@@ -7,5 +7,5 @@ test_cases:
     CADILLAC_TRANS_ISS: 1019.75
   response: 7EA056219410FEF
 - expected_values:
-    CADILLAC_TRANS_ISS: 2823.25
-  response: 7EA056219412C1D
+    CADILLAC_TRANS_ISS: 3172.5
+  response: 7EA056219413192
