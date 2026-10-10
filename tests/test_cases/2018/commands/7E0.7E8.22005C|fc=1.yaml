@@ -4,5 +4,5 @@ test_cases:
     CADILLAC_EOT_V3: 43
   response: 7E80462005C53
 - expected_values:
-    CADILLAC_EOT_V3: 96
-  response: 7E80462005C88
+    CADILLAC_EOT_V3: 101
+  response: 7E80462005C8D

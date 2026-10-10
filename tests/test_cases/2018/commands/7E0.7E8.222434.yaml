@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.222434
 test_cases:
 - expected_values:
-    CADILLAC_AXLE_TQ_DRIVER_REQ: -232
-  response: 7E805622434571E
+    CADILLAC_AXLE_TQ_DRIVER_REQ: -242
+  response: '7E8056224345714'
 - expected_values:
     CADILLAC_AXLE_TQ_DRIVER_REQ: 240
   response: 7E80562243458F6

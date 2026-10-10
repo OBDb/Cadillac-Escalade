@@ -27,3 +27,6 @@ test_cases:
 - expected_values:
     CADILLAC_TP_RL_V3: 288.75
   response: 64105625008120C
+- expected_values:
+    CADILLAC_TP_RL_V3: 299.75
+  response: 6410562500812BC

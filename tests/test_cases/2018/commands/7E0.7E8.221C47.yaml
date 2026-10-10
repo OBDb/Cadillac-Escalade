@@ -22,6 +22,9 @@ test_cases:
     CADILLAC_14V_POWER_MODULE_V: 14.4
   response: 7E804621C4790
 - expected_values:
+    CADILLAC_14V_POWER_MODULE_V: 14.6
+  response: 7E804621C4792
+- expected_values:
     CADILLAC_14V_POWER_MODULE_V: 14.7
   response: 7E804621C4793
 - expected_values:
