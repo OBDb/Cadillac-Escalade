@@ -1,0 +1,8 @@
+command_id: 7E2.7EA.221124
+test_cases:
+- expected_values:
+    CADILLAC_BRAKE_PEDAL_POS_V3: 0
+  response: 7EA0462112400
+- expected_values:
+    CADILLAC_BRAKE_PEDAL_POS_V3: 8
+  response: 7EA0462112408

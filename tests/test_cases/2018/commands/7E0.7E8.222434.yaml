@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.222434
+test_cases:
+- expected_values:
+    CADILLAC_AXLE_TQ_DRIVER_REQ: -134
+  response: '7E8056224345780'
+- expected_values:
+    CADILLAC_AXLE_TQ_DRIVER_REQ: -86
+  response: 7E80562243457B0
+- expected_values:
+    CADILLAC_AXLE_TQ_DRIVER_REQ: -80
+  response: 7E80562243457B6
+- expected_values:
+    CADILLAC_AXLE_TQ_DRIVER_REQ: -65
+  response: 7E80562243457C5
+- expected_values:
+    CADILLAC_AXLE_TQ_DRIVER_REQ: 360
+  response: 7E805622434596E
+- expected_values:
+    CADILLAC_AXLE_TQ_DRIVER_REQ: 669
+  response: 7E8056224345AA3

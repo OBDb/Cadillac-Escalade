@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.221204
+test_cases:
+- expected_values:
+    CADILLAC_MIS_HISTORY_4_V2: 0
+  response: '7E8056212040000'
+- expected_values:
+    CADILLAC_MIS_HISTORY_4_V2: 1
+  response: '7E8056212040001'

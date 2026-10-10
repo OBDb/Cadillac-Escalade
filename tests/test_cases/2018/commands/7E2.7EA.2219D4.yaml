@@ -1,0 +1,17 @@
+command_id: 7E2.7EA.2219D4
+test_cases:
+- expected_values:
+    CADILLAC_CLU_SLIP_C3_RING: 0
+  response: 7EA056219D40000
+- expected_values:
+    CADILLAC_CLU_SLIP_C3_RING: 241.25
+  response: 7EA056219D403C5
+- expected_values:
+    CADILLAC_CLU_SLIP_C3_RING: 317.5
+  response: 7EA056219D404F6
+- expected_values:
+    CADILLAC_CLU_SLIP_C3_RING: 2324.5
+  response: 7EA056219D42452
+- expected_values:
+    CADILLAC_CLU_SLIP_C3_RING: 2796
+  response: 7EA056219D42BB0

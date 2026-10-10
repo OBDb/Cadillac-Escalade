@@ -1,0 +1,5 @@
+command_id: 241.641.224008
+test_cases:
+- expected_values:
+    CADILLAC_TID_RL_V2: 2416191618
+  response: '6410762400890042882'

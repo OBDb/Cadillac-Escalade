@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.223201
+test_cases:
+- expected_values:
+    CADILLAC_CURRENT_GEAR_VAR_3_V2: 0
+  response: '7E80462320100'
+- expected_values:
+    CADILLAC_CURRENT_GEAR_VAR_3_V2: 1
+  response: '7E80462320101'
+- expected_values:
+    CADILLAC_CURRENT_GEAR_VAR_3_V2: 2
+  response: '7E80462320102'
+- expected_values:
+    CADILLAC_CURRENT_GEAR_VAR_3_V2: 6
+  response: '7E80462320106'

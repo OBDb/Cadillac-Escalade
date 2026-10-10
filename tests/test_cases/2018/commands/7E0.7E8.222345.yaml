@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.222345
+test_cases:
+- expected_values:
+    CADILLAC_EOP_ACT_V2: 144
+    CADILLAC_EOP_V2: 144
+  response: '7E80462234524'
+- expected_values:
+    CADILLAC_EOP_ACT_V2: 208
+    CADILLAC_EOP_V2: 208
+  response: '7E80462234534'
+- expected_values:
+    CADILLAC_EOP_ACT_V2: 216
+    CADILLAC_EOP_V2: 216
+  response: '7E80462234536'
+- expected_values:
+    CADILLAC_EOP_ACT_V2: 224
+    CADILLAC_EOP_V2: 224
+  response: '7E80462234538'
+- expected_values:
+    CADILLAC_EOP_ACT_V2: 244
+    CADILLAC_EOP_V2: 244
+  response: 7E8046223453D
+- expected_values:
+    CADILLAC_EOP_ACT_V2: 256
+    CADILLAC_EOP_V2: 256
+  response: '7E80462234540'

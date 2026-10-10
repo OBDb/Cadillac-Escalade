@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.222344
+test_cases:
+- expected_values:
+    CADILLAC_EOP_ABS: 240
+  response: 7E8046223443C
+- expected_values:
+    CADILLAC_EOP_ABS: 296
+  response: 7E8046223444A
+- expected_values:
+    CADILLAC_EOP_ABS: 324
+  response: '7E80462234451'
+- expected_values:
+    CADILLAC_EOP_ABS: 328
+  response: '7E80462234452'
+- expected_values:
+    CADILLAC_EOP_ABS: 332
+  response: '7E80462234453'
+- expected_values:
+    CADILLAC_EOP_ABS: 348
+  response: '7E80462234457'

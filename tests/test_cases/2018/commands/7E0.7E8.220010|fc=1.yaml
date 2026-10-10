@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.220010|fc=1
+test_cases:
+- expected_values:
+    CADILLAC_MAF_7E0: 4.37
+    CADILLAC_MAF_V2: 4.37
+  response: 7E80562001001B5
+- expected_values:
+    CADILLAC_MAF_7E0: 5.49
+    CADILLAC_MAF_V2: 5.49
+  response: '7E8056200100225'
+- expected_values:
+    CADILLAC_MAF_7E0: 6.37
+    CADILLAC_MAF_V2: 6.37
+  response: 7E805620010027D
+- expected_values:
+    CADILLAC_MAF_7E0: 7.77
+    CADILLAC_MAF_V2: 7.77
+  response: '7E8056200100309'
+- expected_values:
+    CADILLAC_MAF_7E0: 7.85
+    CADILLAC_MAF_V2: 7.85
+  response: '7E8056200100311'
+- expected_values:
+    CADILLAC_MAF_7E0: 8.59
+    CADILLAC_MAF_V2: 8.59
+  response: 7E805620010035B

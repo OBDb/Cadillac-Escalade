@@ -1,0 +1,17 @@
+command_id: 7E2.7EA.221942
+test_cases:
+- expected_values:
+    CADILLAC_OUTPUT_SHFT_SPD_V3: 0
+  response: 7EA056219420000
+- expected_values:
+    CADILLAC_OUTPUT_SHFT_SPD_V3: 0
+  response: 7EA0562194200C4
+- expected_values:
+    CADILLAC_OUTPUT_SHFT_SPD_V3: 0.25
+  response: 7EA056219420129
+- expected_values:
+    CADILLAC_OUTPUT_SHFT_SPD_V3: 2.25
+  response: 7EA05621942095A
+- expected_values:
+    CADILLAC_OUTPUT_SHFT_SPD_V3: 5
+  response: 7EA056219421460
