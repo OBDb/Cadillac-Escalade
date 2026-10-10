@@ -4,5 +4,5 @@ test_cases:
     CADILLAC_EOT_CALC_V2: 42
   response: '7E80462115452'
 - expected_values:
-    CADILLAC_EOT_CALC_V2: 96
-  response: '7E80462115488'
+    CADILLAC_EOT_CALC_V2: 101
+  response: 7E8046211548D

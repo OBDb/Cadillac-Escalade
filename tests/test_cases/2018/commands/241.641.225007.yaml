@@ -18,3 +18,6 @@ test_cases:
 - expected_values:
     CADILLAC_TP_RR_V3: 280.5
   response: '641056250071188'
+- expected_values:
+    CADILLAC_TP_RR_V3: 286
+  response: '6410562500711E0'
