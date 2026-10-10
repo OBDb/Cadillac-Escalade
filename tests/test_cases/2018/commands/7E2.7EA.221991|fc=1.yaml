@@ -4,8 +4,8 @@ test_cases:
     CADILLAC_TC_SLIP_VSS_V2: 8.375
   response: 7EA056219910043
 - expected_values:
-    CADILLAC_TC_SLIP_VSS_V2: 93.5
-  response: 7EA0562199102EC
+    CADILLAC_TC_SLIP_VSS_V2: 30.625
+  response: 7EA0562199100F5
 - expected_values:
     CADILLAC_TC_SLIP_VSS_V2: 129.125
   response: 7EA056219910409

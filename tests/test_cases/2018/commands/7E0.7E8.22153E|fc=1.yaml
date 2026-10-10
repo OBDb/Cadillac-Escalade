@@ -4,3 +4,8 @@ test_cases:
     CADILLAC_EOT_ALT: 0
     CADILLAC_EOT_DA11: 0
   response: 7E80462153E00
+- expected_values:
+    CADILLAC_EOT_2_V2: 0
+    CADILLAC_EOT_ALT: 0
+    CADILLAC_EOT_DA11: 0
+  response: 7E80462153E28
