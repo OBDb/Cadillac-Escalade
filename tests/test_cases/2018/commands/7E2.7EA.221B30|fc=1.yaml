@@ -10,6 +10,9 @@ test_cases:
     CADILLAC_CURRENT_GEAR_V2: 1
   response: 7EA04621B3004
 - expected_values:
+    CADILLAC_CURRENT_GEAR_V2: 2
+  response: 7EA04621B3005
+- expected_values:
     CADILLAC_CURRENT_GEAR_V2: 3
   response: 7EA04621B3006
 - expected_values:

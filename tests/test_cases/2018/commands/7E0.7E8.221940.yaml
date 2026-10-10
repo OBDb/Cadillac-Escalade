@@ -4,5 +4,5 @@ test_cases:
     CADILLAC_ATF_T_VAR_1_V2: 34
   response: 7E8046219404A
 - expected_values:
-    CADILLAC_ATF_T_VAR_1_V2: 83
-  response: 7E8046219407B
+    CADILLAC_ATF_T_VAR_1_V2: 85
+  response: 7E8046219407D
