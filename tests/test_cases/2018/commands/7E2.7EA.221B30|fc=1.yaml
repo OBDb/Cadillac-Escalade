@@ -1,6 +1,9 @@
 command_id: 7E2.7EA.221B30|fc=1
 test_cases:
 - expected_values:
+    CADILLAC_CURRENT_GEAR_V2: -1
+  response: 7EA04621B3002
+- expected_values:
     CADILLAC_CURRENT_GEAR_V2: 0
   response: 7EA04621B3003
 - expected_values:

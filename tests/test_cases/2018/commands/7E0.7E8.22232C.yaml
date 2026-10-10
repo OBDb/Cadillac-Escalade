@@ -10,6 +10,9 @@ test_cases:
     CADILLAC_AIR_TEMP_AMBIENT_2: 23
   response: 7E80462232C3F
 - expected_values:
+    CADILLAC_AIR_TEMP_AMBIENT_2: 24
+  response: 7E80462232C40
+- expected_values:
     CADILLAC_AIR_TEMP_AMBIENT_2: 25
   response: 7E80462232C41
 - expected_values:

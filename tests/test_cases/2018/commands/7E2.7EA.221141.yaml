@@ -21,3 +21,6 @@ test_cases:
 - expected_values:
     CADILLAC_IGN_V_V2: 14.4
   response: 7EA0462114190
+- expected_values:
+    CADILLAC_IGN_V_V2: 14.7
+  response: 7EA0462114193
