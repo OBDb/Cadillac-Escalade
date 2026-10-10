@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.221145
+test_cases:
+- expected_values:
+    CADILLAC_HEATED_OXYGEN_SENS_V2: 10
+  response: 7E8046211450A
+- expected_values:
+    CADILLAC_HEATED_OXYGEN_SENS_V2: 200
+  response: 7E804621145C8

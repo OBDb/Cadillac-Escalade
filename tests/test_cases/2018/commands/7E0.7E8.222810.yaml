@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.222810
+test_cases:
+- expected_values:
+    CADILLAC_THROTTLE_POS_CALC: 0
+  response: '7E80462281000'
+- expected_values:
+    CADILLAC_THROTTLE_POS_CALC: 3.92157
+  response: 7E8046228100A
+- expected_values:
+    CADILLAC_THROTTLE_POS_CALC: 6.27451
+  response: '7E80462281010'
+- expected_values:
+    CADILLAC_THROTTLE_POS_CALC: 9.80392
+  response: '7E80462281019'
+- expected_values:
+    CADILLAC_THROTTLE_POS_CALC: 20.39216
+  response: '7E80462281034'
+- expected_values:
+    CADILLAC_THROTTLE_POS_CALC: 21.96078
+  response: '7E80462281038'

@@ -1,0 +1,26 @@
+command_id: 7E2.7EA.222862
+test_cases:
+- expected_values:
+    CADILLAC_TRANS_P_V2: 8800
+  response: 7EA056228622260
+- expected_values:
+    CADILLAC_TRANS_P_V2: 10400
+  response: 7EA0562286228A0
+- expected_values:
+    CADILLAC_TRANS_P_V2: 10713
+  response: 7EA0562286229D9
+- expected_values:
+    CADILLAC_TRANS_P_V2: 11134
+  response: 7EA056228622B7E
+- expected_values:
+    CADILLAC_TRANS_P_V2: 11154
+  response: 7EA056228622B92
+- expected_values:
+    CADILLAC_TRANS_P_V2: 12800
+  response: 7EA056228623200
+- expected_values:
+    CADILLAC_TRANS_P_V2: 15827
+  response: 7EA056228623DD3
+- expected_values:
+    CADILLAC_TRANS_P_V2: 16684
+  response: 7EA05622862412C
