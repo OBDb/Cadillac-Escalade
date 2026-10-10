@@ -1,0 +1,8 @@
+command_id: 7E2.7EA.221940
+test_cases:
+- expected_values:
+    CADILLAC_ATF_T: 35
+  response: 7EA046219404B
+- expected_values:
+    CADILLAC_ATF_T: 85
+  response: 7EA046219407D

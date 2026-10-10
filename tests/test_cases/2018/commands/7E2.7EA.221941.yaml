@@ -1,0 +1,32 @@
+command_id: 7E2.7EA.221941
+test_cases:
+- expected_values:
+    CADILLAC_TRANS_ISS: 0
+  response: 7EA056219410000
+- expected_values:
+    CADILLAC_TRANS_ISS: 343.25
+  response: 7EA05621941055D
+- expected_values:
+    CADILLAC_TRANS_ISS: 366
+  response: 7EA0562194105B8
+- expected_values:
+    CADILLAC_TRANS_ISS: 1360.25
+  response: 7EA056219411541
+- expected_values:
+    CADILLAC_TRANS_ISS: 1899.25
+  response: 7EA056219411DAD
+- expected_values:
+    CADILLAC_TRANS_ISS: 2093.75
+  response: 7EA0562194120B7
+- expected_values:
+    CADILLAC_TRANS_ISS: 2347
+  response: 7EA0562194124AC
+- expected_values:
+    CADILLAC_TRANS_ISS: 2579
+  response: 7EA05621941284C
+- expected_values:
+    CADILLAC_TRANS_ISS: 2823.25
+  response: 7EA056219412C1D
+- expected_values:
+    CADILLAC_TRANS_ISS: 2837.5
+  response: 7EA056219412C56

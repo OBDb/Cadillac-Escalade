@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.221C1B
+test_cases:
+- expected_values:
+    CADILLAC_EOP_CALC_V2: 32
+  response: 7E804621C1B08
+- expected_values:
+    CADILLAC_EOP_CALC_V2: 324
+  response: 7E804621C1B51

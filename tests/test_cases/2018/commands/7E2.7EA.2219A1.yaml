@@ -1,0 +1,26 @@
+command_id: 7E2.7EA.2219A1
+test_cases:
+- expected_values:
+    CADILLAC_GEAR_RAT_V2: 0
+  response: 7EA046219A100
+- expected_values:
+    CADILLAC_GEAR_RAT_V2: 112
+  response: 7EA046219A170
+- expected_values:
+    CADILLAC_GEAR_RAT_V2: 113
+  response: 7EA046219A171
+- expected_values:
+    CADILLAC_GEAR_RAT_V2: 137
+  response: 7EA046219A189
+- expected_values:
+    CADILLAC_GEAR_RAT_V2: 154
+  response: 7EA046219A19A
+- expected_values:
+    CADILLAC_GEAR_RAT_V2: 176
+  response: 7EA046219A1B0
+- expected_values:
+    CADILLAC_GEAR_RAT_V2: 191
+  response: 7EA046219A1BF
+- expected_values:
+    CADILLAC_GEAR_RAT_V2: 255
+  response: 7EA046219A1FF
