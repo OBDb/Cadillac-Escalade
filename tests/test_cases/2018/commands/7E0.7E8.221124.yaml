@@ -4,6 +4,9 @@ test_cases:
     CADILLAC_BRAKE_PEDAL_POS: 81
   response: '7E80462112451'
 - expected_values:
+    CADILLAC_BRAKE_PEDAL_POS: 93
+  response: 7E8046211245D
+- expected_values:
     CADILLAC_BRAKE_PEDAL_POS: 221
   response: 7E804621124DD
 - expected_values:

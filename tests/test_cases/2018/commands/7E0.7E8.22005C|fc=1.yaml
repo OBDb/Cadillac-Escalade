@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22005C|fc=1
 test_cases:
 - expected_values:
-    CADILLAC_EOT_V3: 43
+    CADILLAC_EOT_7E0: 43
   response: 7E80462005C53
 - expected_values:
-    CADILLAC_EOT_V3: 101
+    CADILLAC_EOT_7E0: 101
   response: 7E80462005C8D

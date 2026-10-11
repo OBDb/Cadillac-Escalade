@@ -1,20 +1,20 @@
 command_id: 241.641.225005
 test_cases:
 - expected_values:
-    CADILLAC_TP_FL_V3: 266.75
+    CADILLAC_TP_FL_BCM: 266.75
   response: 6410562500510AC
 - expected_values:
-    CADILLAC_TP_FL_V3: 269.5
+    CADILLAC_TP_FL_BCM: 269.5
   response: 6410562500510D8
 - expected_values:
-    CADILLAC_TP_FL_V3: 272.25
+    CADILLAC_TP_FL_BCM: 272.25
   response: '641056250051104'
 - expected_values:
-    CADILLAC_TP_FL_V3: 275
+    CADILLAC_TP_FL_BCM: 275
   response: '641056250051130'
 - expected_values:
-    CADILLAC_TP_FL_V3: 277.75
+    CADILLAC_TP_FL_BCM: 277.75
   response: 64105625005115C
 - expected_values:
-    CADILLAC_TP_FL_V3: 286
+    CADILLAC_TP_FL_BCM: 286
   response: '6410562500511E0'

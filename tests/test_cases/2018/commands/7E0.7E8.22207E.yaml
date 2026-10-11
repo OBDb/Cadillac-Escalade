@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     CADILLAC_IGN_POWER_MODE: 2
   response: 7E80462207E02
+- expected_values:
+    CADILLAC_IGN_POWER_MODE: 3
+  response: 7E80462207E03
