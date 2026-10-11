@@ -1,6 +1,12 @@
 command_id: 241.641.225007
 test_cases:
 - expected_values:
+    CADILLAC_TP_RR_BCM: 261.25
+  response: '641056250071054'
+- expected_values:
+    CADILLAC_TP_RR_BCM: 264
+  response: '641056250071080'
+- expected_values:
     CADILLAC_TP_RR_BCM: 266.75
   response: 6410562500710AC
 - expected_values:

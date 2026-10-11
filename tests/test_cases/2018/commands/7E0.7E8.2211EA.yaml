@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     CADILLAC_MIS_CNT_5: 0
   response: 7E8046211EA00
+- expected_values:
+    CADILLAC_MIS_CNT_5: 2
+  response: 7E8046211EA02

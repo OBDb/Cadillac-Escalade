@@ -1,14 +1,14 @@
 command_id: 7E2.7EA.222862
 test_cases:
 - expected_values:
-    CADILLAC_TRANS_P_V2: 8800
+    CADILLAC_TRANS_P_V3: 8800
   response: 7EA056228622260
 - expected_values:
-    CADILLAC_TRANS_P_V2: 11263
+    CADILLAC_TRANS_P_V3: 11263
   response: 7EA056228622BFF
 - expected_values:
-    CADILLAC_TRANS_P_V2: 12800
+    CADILLAC_TRANS_P_V3: 12800
   response: 7EA056228623200
 - expected_values:
-    CADILLAC_TRANS_P_V2: 16684
+    CADILLAC_TRANS_P_V3: 16684
   response: 7EA05622862412C

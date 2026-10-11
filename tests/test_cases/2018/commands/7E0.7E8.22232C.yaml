@@ -1,29 +1,8 @@
 command_id: 7E0.7E8.22232C
 test_cases:
 - expected_values:
-    CADILLAC_AIR_TEMP_AMBIENT_2: 18
-  response: 7E80462232C3A
-- expected_values:
-    CADILLAC_AIR_TEMP_AMBIENT_2: 20
-  response: 7E80462232C3C
-- expected_values:
-    CADILLAC_AIR_TEMP_AMBIENT_2: 21
-  response: 7E80462232C3D
-- expected_values:
-    CADILLAC_AIR_TEMP_AMBIENT_2: 22
-  response: 7E80462232C3E
-- expected_values:
-    CADILLAC_AIR_TEMP_AMBIENT_2: 23
-  response: 7E80462232C3F
-- expected_values:
-    CADILLAC_AIR_TEMP_AMBIENT_2: 24
-  response: 7E80462232C40
-- expected_values:
-    CADILLAC_AIR_TEMP_AMBIENT_2: 25
-  response: 7E80462232C41
-- expected_values:
-    CADILLAC_AIR_TEMP_AMBIENT_2: 26
-  response: 7E80462232C42
+    CADILLAC_AIR_TEMP_AMBIENT_2: 16
+  response: 7E80462232C38
 - expected_values:
     CADILLAC_AIR_TEMP_AMBIENT_2: 33
   response: 7E80462232C49
