@@ -4,6 +4,9 @@ test_cases:
     CADILLAC_MIS_HISTORY_6_V2: 0
   response: 7E8056211F90000
 - expected_values:
+    CADILLAC_MIS_HISTORY_6_V2: 1
+  response: 7E8056211F90001
+- expected_values:
     CADILLAC_MIS_HISTORY_6_V2: 2
   response: 7E8056211F90002
 - expected_values:

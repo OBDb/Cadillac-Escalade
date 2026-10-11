@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     CADILLAC_MIL_CAUSE: 61
   response: 7E80462135F3D
+- expected_values:
+    CADILLAC_MIL_CAUSE: 151
+  response: 7E80462135F97

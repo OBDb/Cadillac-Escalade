@@ -1,8 +1,8 @@
 command_id: 7E2.7EA.221141
 test_cases:
 - expected_values:
-    CADILLAC_IGN_V_V2: 13.4
-  response: 7EA0462114186
+    CADILLAC_IGN_V_V2: 12
+  response: 7EA0462114178
 - expected_values:
     CADILLAC_IGN_V_V2: 14.7
   response: 7EA0462114193
