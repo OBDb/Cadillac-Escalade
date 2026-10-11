@@ -10,5 +10,5 @@ test_cases:
     CADILLAC_TRANS_P_V3: 12800
   response: 7EA056228623200
 - expected_values:
-    CADILLAC_TRANS_P_V3: 16684
-  response: 7EA05622862412C
+    CADILLAC_TRANS_P_V3: 17992
+  response: 7EA056228624648
