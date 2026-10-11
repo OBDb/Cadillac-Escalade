@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     CADILLAC_TOTAL_MISFIRE_7E0: 2
   response: '7E80462120002'
+- expected_values:
+    CADILLAC_TOTAL_MISFIRE_7E0: 4
+  response: '7E80462120004'
