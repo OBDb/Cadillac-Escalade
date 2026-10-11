@@ -4,6 +4,9 @@ test_cases:
     CADILLAC_THROTTLE_POS_CALC: 0
   response: '7E80462281000'
 - expected_values:
+    CADILLAC_THROTTLE_POS_CALC: 0.39216
+  response: '7E80462281001'
+- expected_values:
     CADILLAC_THROTTLE_POS_CALC: 3.92157
   response: 7E8046228100A
 - expected_values:

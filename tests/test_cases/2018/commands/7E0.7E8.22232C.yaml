@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.22232C
 test_cases:
 - expected_values:
+    CADILLAC_AIR_TEMP_AMBIENT_2: 18
+  response: 7E80462232C3A
+- expected_values:
     CADILLAC_AIR_TEMP_AMBIENT_2: 20
   response: 7E80462232C3C
 - expected_values:
