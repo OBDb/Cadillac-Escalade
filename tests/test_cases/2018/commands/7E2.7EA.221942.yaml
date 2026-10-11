@@ -7,5 +7,5 @@ test_cases:
     CADILLAC_OUTPUT_SHFT_SPD_V3: 1
   response: 7EA0562194204FB
 - expected_values:
-    CADILLAC_OUTPUT_SHFT_SPD_V3: 5.25
-  response: 7EA05621942154D
+    CADILLAC_OUTPUT_SHFT_SPD_V3: 6.5
+  response: 7EA056219421A0D
