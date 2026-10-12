@@ -9,6 +9,6 @@ test_cases:
     CADILLAC_MAF_V2: 5.11
   response: 7E80562001001FF
 - expected_values:
-    CADILLAC_MAF_7E0: 55.65
-    CADILLAC_MAF_V2: 55.65
-  response: 7E80562001015BD
+    CADILLAC_MAF_7E0: 83.89
+    CADILLAC_MAF_V2: 83.89
+  response: 7E80562001020C5

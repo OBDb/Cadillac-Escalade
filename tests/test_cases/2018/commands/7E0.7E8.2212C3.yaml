@@ -4,5 +4,5 @@ test_cases:
     CADILLAC_INJ_DUTY_BANK_1: 0
   response: 7E8056212C30000
 - expected_values:
-    CADILLAC_INJ_DUTY_BANK_1: 1.92
-  response: 7E8056212C30080
+    CADILLAC_INJ_DUTY_BANK_1: 2.16
+  response: 7E8056212C30090

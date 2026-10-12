@@ -4,8 +4,8 @@ test_cases:
     CADILLAC_AXLE_TQ_DRIVER_REQ: -242
   response: '7E8056224345714'
 - expected_values:
-    CADILLAC_AXLE_TQ_DRIVER_REQ: 240
-  response: 7E80562243458F6
+    CADILLAC_AXLE_TQ_DRIVER_REQ: -13
+  response: 7E80562243457F9
 - expected_values:
     CADILLAC_AXLE_TQ_DRIVER_REQ: 509
   response: 7E8056224345A03
