@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.220042|f=-2020
+test_cases:
+- expected_values:
+    ESC_M_CTRL_MODULE_V: 0
+  response: '7E8056200420000'
+- expected_values:
+    ESC_M_CTRL_MODULE_V: 13.82
+  response: 7E80562004235FC
+- expected_values:
+    ESC_M_CTRL_MODULE_V: 14.592
+  response: '7E8056200423900'

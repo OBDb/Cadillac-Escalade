@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.221C47
 test_cases:
 - expected_values:
-    CADILLAC_14V_POWER_MODULE_V: 0
+    ESC_14V_POWER_MODULE_V: 0
   response: 7E804621C4700
 - expected_values:
-    CADILLAC_14V_POWER_MODULE_V: 14.9
+    ESC_14V_POWER_MODULE_V: 14.9
   response: 7E804621C4795

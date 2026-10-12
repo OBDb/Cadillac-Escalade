@@ -1,0 +1,8 @@
+command_id: DA18.221B30|fc=1,c=14,f=2021-
+test_cases:
+- expected_values:
+    ESC_CURRENT_GEAR_DA18: -2
+  response: 142AF11804621B3001
+- expected_values:
+    ESC_CURRENT_GEAR_DA18: 10
+  response: 142AF11804621B300D

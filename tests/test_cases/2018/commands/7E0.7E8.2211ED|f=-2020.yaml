@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.2211ED|f=-2020
+test_cases:
+- expected_values:
+    ESC_MIS_CURRENT_8: 0
+  response: 7E8046211ED00
+- expected_values:
+    ESC_MIS_CURRENT_8: 2
+  response: 7E8046211ED02

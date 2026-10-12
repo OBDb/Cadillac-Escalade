@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.221564|f=-2020
+test_cases:
+- expected_values:
+    ESC_AC_HIGH_SIDE_P: 82.82
+  response: '7E80462156429'
+- expected_values:
+    ESC_AC_HIGH_SIDE_P: 212.1
+  response: '7E80462156469'

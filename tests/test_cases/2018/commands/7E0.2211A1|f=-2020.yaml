@@ -1,0 +1,11 @@
+command_id: 7E0.2211A1|f=-2020
+test_cases:
+- expected_values:
+    ESC_RUNTM: 0
+  response: 7E8056211A10000
+- expected_values:
+    ESC_RUNTM: 765
+  response: 7E8056211A102FD
+- expected_values:
+    ESC_RUNTM: 14008
+  response: 7E8056211A136B8
