@@ -1,0 +1,11 @@
+command_id: DA11.220010|fc=1,c=14,f=2021-
+test_cases:
+- expected_values:
+    ESC_MAF_DA11: 0
+  response: 142AF111056200100000
+- expected_values:
+    ESC_MAF_DA11: 2.55
+  response: 142AF1110562001000FF
+- expected_values:
+    ESC_MAF_DA11: 175.39
+  response: 142AF111056200104483

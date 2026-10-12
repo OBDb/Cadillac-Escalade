@@ -1,5 +1,5 @@
 command_id: 241.641.224007
 test_cases:
 - expected_values:
-    CADILLAC_TID_RR_241: 2416171737
+    ESC_TID_RR: 2416171737
   response: 641076240079003DAD9

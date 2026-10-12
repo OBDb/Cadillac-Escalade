@@ -1,0 +1,8 @@
+command_id: DA11.22153E|fc=1,c=14,f=2021-
+test_cases:
+- expected_values:
+    ESC_EOT_DA11_2: 12
+  response: 142AF1110462153E34
+- expected_values:
+    ESC_EOT_DA11_2: 104
+  response: 142AF1110462153E90

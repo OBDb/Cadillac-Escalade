@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.220010|fc=1,f=-2020
+test_cases:
+- expected_values:
+    ESC_MAF: 0
+  response: '7E8056200100000'
+- expected_values:
+    ESC_MAF: 5.11
+  response: 7E80562001001FF
+- expected_values:
+    ESC_MAF: 83.89
+  response: 7E80562001020C5

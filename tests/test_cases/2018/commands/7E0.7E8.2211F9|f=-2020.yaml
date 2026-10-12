@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2211F9|f=-2020
+test_cases:
+- expected_values:
+    ESC_MIS_HISTORY_6: 0
+  response: 7E8056211F90000
+- expected_values:
+    ESC_MIS_HISTORY_6: 1
+  response: 7E8056211F90001
+- expected_values:
+    ESC_MIS_HISTORY_6: 2
+  response: 7E8056211F90002
+- expected_values:
+    ESC_MIS_HISTORY_6: 4
+  response: 7E8056211F90004

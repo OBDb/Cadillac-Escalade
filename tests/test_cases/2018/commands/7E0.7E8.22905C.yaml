@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22905C
 test_cases:
 - expected_values:
-    CADILLAC_HOOD_POS: 0
+    ESC_HOOD_POS_V2: 0
   response: 7E80462905C00
 - expected_values:
-    CADILLAC_HOOD_POS: 1
+    ESC_HOOD_POS_V2: 1
   response: 7E80462905C01

@@ -1,5 +1,0 @@
-command_id: 7E0.7E8.2211A6
-test_cases:
-- expected_values:
-    CADILLAC_KNOCK_RETARD_7E0: 0
-  response: 7E8046211A600

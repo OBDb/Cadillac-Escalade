@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.222344|f=-2020
+test_cases:
+- expected_values:
+    ESC_EOP_ABS: 96
+  response: '7E80462234418'
+- expected_values:
+    ESC_EOP_ABS: 380
+  response: 7E8046223445F

@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.222810
 test_cases:
 - expected_values:
-    CADILLAC_THROTTLE_POS_CALC: 0
+    ESC_THROTTLE_POS_CALC_V2: 0
   response: '7E80462281000'
 - expected_values:
-    CADILLAC_THROTTLE_POS_CALC: 21.96078
+    ESC_THROTTLE_POS_CALC_V2: 21.96078
   response: '7E80462281038'

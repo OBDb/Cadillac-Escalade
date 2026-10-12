@@ -1,0 +1,8 @@
+command_id: DA11.224DC0|fc=1,c=14,f=2021-
+test_cases:
+- expected_values:
+    ESC_EO_LIFE_REMAINING_DA11: 40.78431
+  response: 142AF11104624DC068
+- expected_values:
+    ESC_EO_LIFE_REMAINING_DA11: 96.86275
+  response: 142AF11104624DC0F7

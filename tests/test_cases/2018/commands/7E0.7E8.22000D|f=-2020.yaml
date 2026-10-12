@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22000D|f=-2020
+test_cases:
+- expected_values:
+    ESC_VSS: 0
+  response: 7E80462000D00
+- expected_values:
+    ESC_VSS: 131
+  response: 7E80462000D83
+- expected_values:
+    ESC_VSS: null
+  response: 7E80462000DFF

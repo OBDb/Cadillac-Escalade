@@ -1,0 +1,17 @@
+command_id: DA11.2211EA|fc=1,c=14,f=2021-
+test_cases:
+- expected_values:
+    ESC_MISFIRES_C5_CUR_DA11: 0
+  response: 142AF111046211EA00
+- expected_values:
+    ESC_MISFIRES_C5_CUR_DA11: 0.39216
+  response: 142AF111046211EA01
+- expected_values:
+    ESC_MISFIRES_C5_CUR_DA11: 0.78431
+  response: 142AF111046211EA02
+- expected_values:
+    ESC_MISFIRES_C5_CUR_DA11: 1.17647
+  response: 142AF111046211EA03
+- expected_values:
+    ESC_MISFIRES_C5_CUR_DA11: 1.56863
+  response: 142AF111046211EA04
