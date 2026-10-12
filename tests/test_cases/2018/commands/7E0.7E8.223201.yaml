@@ -21,3 +21,6 @@ test_cases:
 - expected_values:
     CADILLAC_CURRENT_GEAR_VAR_3_7E0: 6
   response: '7E80462320106'
+- expected_values:
+    CADILLAC_CURRENT_GEAR_VAR_3_7E0: 7
+  response: '7E80462320107'

@@ -4,5 +4,5 @@ test_cases:
     CADILLAC_ATF_T: 35
   response: 7EA046219404B
 - expected_values:
-    CADILLAC_ATF_T: 90
-  response: 7EA0462194082
+    CADILLAC_ATF_T: 92
+  response: 7EA0462194084
