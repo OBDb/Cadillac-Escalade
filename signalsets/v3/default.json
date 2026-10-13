@@ -512,7 +512,7 @@
   "signals": [
     {"id": "ESC_DPF_CORRECTED_PRES", "path": "Engine", "fmt": { "len": 16, "max": 327.67, "min": -327.68, "mul": 100, "div": 10000, "sign": true, "nullmax": 327.67, "unit": "kilopascal" }, "name": "Diesel particulate filter, corrected pressure"}
   ]},
-{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "dbg": true, "cmd": {"22": "37A7"}, "freq": 1, "filter": { "from": 2021 },
+{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "37A7"}, "freq": 1, "filter": { "from": 2021 }, "dbgfilter": { "to": 2021, "from": 2023 },
   "signals": [
     {"id": "ESC_EOP_DES", "path": "Engine", "fmt": { "len": 8, "max": 1020, "mul": 4, "unit": "kilopascal" }, "name": "Engine oil pressure, desired"}
   ]},
@@ -579,11 +579,11 @@
   "signals": [
     {"id": "ESC_TP_FL_DA40", "path": "Tires", "fmt": { "len": 16, "max": 4095.9375, "div": 16, "unit": "kilopascal" }, "name": "Front left tire pressure", "suggestedMetric": "frontLeftTirePressure"}
   ]},
-{ "hdr": "DA40", "rax": "40", "dbg": true, "cmd": {"22": "5006"}, "freq": 15,
+{ "hdr": "DA40", "rax": "40", "cmd": {"22": "5006"}, "freq": 15, "dbgfilter": { "to": 2021, "from": 2023 },
   "signals": [
     {"id": "ESC_TP_FR_DA40", "path": "Tires", "fmt": { "len": 16, "max": 4095.9375, "div": 16, "unit": "kilopascal" }, "name": "Front right tire pressure", "suggestedMetric": "frontRightTirePressure"}
   ]},
-{ "hdr": "DA40", "rax": "40", "dbg": true, "cmd": {"22": "5007"}, "freq": 15,
+{ "hdr": "DA40", "rax": "40", "cmd": {"22": "5007"}, "freq": 15, "dbgfilter": { "to": 2021, "from": 2023 },
   "signals": [
     {"id": "ESC_TP_RR_DA40", "path": "Tires", "fmt": { "len": 16, "max": 4095.9375, "div": 16, "unit": "kilopascal" }, "name": "Rear right tire pressure", "suggestedMetric": "rearRightTirePressure"}
   ]},
