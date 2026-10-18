@@ -4,5 +4,5 @@ test_cases:
     ESC_ATF_T: 35
   response: 7EA046219404B
 - expected_values:
-    ESC_ATF_T: 93
-  response: 7EA0462194085
+    ESC_ATF_T: 94
+  response: 7EA0462194086
