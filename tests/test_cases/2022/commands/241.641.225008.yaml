@@ -1,0 +1,5 @@
+command_id: 241.641.225008
+test_cases:
+- expected_values:
+    ESC_TP_RL: 255.75
+  response: 641056250080FFC
