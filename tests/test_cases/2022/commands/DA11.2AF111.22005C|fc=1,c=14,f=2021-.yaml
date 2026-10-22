@@ -4,5 +4,5 @@ test_cases:
     ESC_EOT_DA11_2_2: 15
   response: 142AF1110462005C37
 - expected_values:
-    ESC_EOT_DA11_2_2: 101
-  response: 142AF1110462005C8D
+    ESC_EOT_DA11_2_2: 102
+  response: 142AF1110462005C8E
