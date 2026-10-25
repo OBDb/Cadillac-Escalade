@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     ESC_TP_FR: 225.5
   response: '641056250060E18'
+- expected_values:
+    ESC_TP_FR: 244.75
+  response: 641056250060F4C
