@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     ESC_TP_FL: 239.25
   response: 641056250050EF4
+- expected_values:
+    ESC_TP_FL: 244.75
+  response: 641056250050F4C
