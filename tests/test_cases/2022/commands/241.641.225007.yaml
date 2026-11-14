@@ -4,5 +4,8 @@ test_cases:
     ESC_TP_RR: 222.75
   response: 641056250070DEC
 - expected_values:
+    ESC_TP_RR: 236.5
+  response: 641056250070EC8
+- expected_values:
     ESC_TP_RR: 239.25
   response: 641056250070EF4
