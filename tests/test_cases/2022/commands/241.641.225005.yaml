@@ -4,6 +4,9 @@ test_cases:
     ESC_TP_FL: 222.75
   response: 641056250050DEC
 - expected_values:
+    ESC_TP_FL: 228.25
+  response: '641056250050E44'
+- expected_values:
     ESC_TP_FL: 239.25
   response: 641056250050EF4
 - expected_values:
