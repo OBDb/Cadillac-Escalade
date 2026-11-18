@@ -428,7 +428,7 @@
   "signals": [
     {"id": "ESC_EOT_DA11_2_2", "path": "Engine", "fmt": { "len": 8, "max": 215, "min": -40, "add": -40, "unit": "celsius" }, "name": "Engine oil temperature", "suggestedMetric": "engineOilTemperature"}
   ]},
-{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "0078"}, "freq": 1, "filter": { "from": 2021 }, "dbgfilter": { "to": 2021, "from": 2023 },
+{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "dbg": true, "cmd": {"22": "0078"}, "freq": 1, "filter": { "from": 2021 },
   "signals": [
     {"id": "ESC_DPF_EGT_4", "path": "Engine", "fmt": {"bix": 56, "len": 16, "max": 6513.5, "min": -40, "div": 10, "add": -40, "nullmin": -40, "unit": "celsius" }, "name": "Diesel particulate filter, exhaust gas temperature 4"}
   ]},
@@ -492,11 +492,11 @@
   "signals": [
     {"id": "ESC_DPF_DIST_SINCE_LAST_REGEN", "path": "Trips", "fmt": { "len": 16, "max": 65535, "unit": "kilometers" }, "name": "Diesel particulate filter, distance since last regeneration"}
   ]},
-{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "303A"}, "freq": 1, "filter": { "from": 2021 }, "dbgfilter": { "to": 2021, "from": 2023 },
+{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "dbg": true, "cmd": {"22": "303A"}, "freq": 1, "filter": { "from": 2021 },
   "signals": [
     {"id": "ESC_DPF_EGT_1", "path": "Engine", "fmt": { "len": 16, "max": 6513.5, "min": -40, "div": 10, "add": -40, "nullmin": -40, "unit": "celsius" }, "name": "Diesel particulate filter, exhaust gas temperature 1"}
   ]},
-{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "303B"}, "freq": 1, "filter": { "from": 2021 }, "dbgfilter": { "to": 2021, "from": 2023 },
+{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "dbg": true, "cmd": {"22": "303B"}, "freq": 1, "filter": { "from": 2021 },
   "signals": [
     {"id": "ESC_DPF_EGT_2", "path": "Engine", "fmt": { "len": 16, "max": 6513.5, "min": -40, "div": 10, "add": -40, "nullmin": -40, "unit": "celsius" }, "name": "Diesel particulate filter, exhaust gas temperature 2"}
   ]},
